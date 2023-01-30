@@ -4,15 +4,19 @@ This Proprietary License Agreement (the “Agreement”) is made and entered int
 
 #### Definitions
 **(a)** “Mod” means the Minecraft mod created by the Licensor, including all accompanying software, data, and documentation.
+
 **(b)** “User” means any person or entity who uses the Mod.
 
 #### Grant of License
 **(a)** The Licensor hereby grants to the User a limited, non-exclusive, non-transferable license to use the Mod for personal, non-commercial use only.
+
 **(b)** The User may not redistribute the Mod or any part of it, including but not limited to selling, licensing, or sublicensing the Mod, or including the Mod as part of a larger software distribution.
 
 #### Ownership
 **(a)** The Licensor retains all right, title, and interest in and to the Mod, including all copyrights, trademarks, and other intellectual property rights in the Mod.
+
 **(b)** The User acknowledges that the Mod is proprietary to the Licensor and that the User has no right to use, modify, reverse-engineer, or create derivative works of the Mod.
+
 **(c)** Any portion of the Mod that originates from third-party sources is governed by their respective license agreements, specifically for those portions of the source code/artworks, and any modifications to those licenses.
 
 #### Notifications
